@@ -6,7 +6,8 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/lmt20/Docs)
 ![Twitter Follow](https://img.shields.io/twitter/follow/TruongLeManh?style=social)
 
-#In App Purchase Workflow
+# In App Purchase Workflow
+
 Step 1: Sign a Paid Applications Agreement
 
 Detail in: [https://help.apple.com/app-store-connect/#/devb6df5ee51](https://help.apple.com/app-store-connect/#/devb6df5ee51)
